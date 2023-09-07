@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there 👋, Hope you are having a great week 
+#### I'm a software developer
+![I'm a software developer](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)
 
-##first stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaziimYassien&hide=contribs,prs)
 
-## second stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaziimYassien&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+Skills: HTML / CSS / JAVASCRIPT / nodeJS / C# / .NET
 
-## thirs
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaziimYassien&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaziimYassien&show_icons=true&theme=transparent)
 
